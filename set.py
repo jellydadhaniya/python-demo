@@ -50,7 +50,7 @@ print(result)
 
 s = '123'
 num = int(s)
-print(num)
+print(num)  
 
 lst = [1, 2 , 3]
 tup = tuple(lst)
